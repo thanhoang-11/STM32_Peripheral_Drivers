@@ -1,0 +1,10 @@
+17:47:31 **** Build of configuration Debug for project 007_EXTI0_button_interrupt ****
+make -j8 all 
+arm-none-eabi-size  007_EXTI0_button_interrupt.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3516	     92	   1900	   5508	   1584	007_EXTI0_button_interrupt.elf
+Finished building: default.size.stdout
+ 
+
+17:47:31 Build Finished. 0 errors, 0 warnings. (took 313ms)
+
